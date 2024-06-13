@@ -9,3 +9,9 @@ echo x
 y = 2-1
 
 echo y
+
+#div
+
+z = 4%2
+
+echo z
